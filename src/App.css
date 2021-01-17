@@ -37,7 +37,6 @@
   }
 }
 
-.fakeimg {
-  height: 200px;
-  background: #aaa;
+.noDisplay {
+  display: none;
 }
